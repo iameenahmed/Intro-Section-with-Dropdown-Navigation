@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/intro-section-with-dropdown-navigation](https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation)
+- Solution URL: [frontendmentor.io/solutions/intro-section-with-dropdown-navigation](https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation-zAj0LGUc02)
 
 ## My process
 
